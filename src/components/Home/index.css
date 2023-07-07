@@ -1,0 +1,41 @@
+.home-page {
+  height: 70vh;
+  overflow: auto;
+  background-color: #ffffff;
+
+  padding: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.courses-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.failure-view {
+  align-self: center;
+  text-align: center;
+  margin-top: 5%;
+}
+.failure-image {
+  width: 50vw;
+  height: 50vh;
+}
+.failure-heading {
+  color: #475569;
+}
+.failure-description {
+  color: #475569;
+}
+.retry-btn {
+  background-color: #4656a1;
+  border: none;
+  outline: none;
+  color: #e8e8e8;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100px;
+  font-weight: 500;
+  font-size: 15px;
+}

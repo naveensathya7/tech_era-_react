@@ -1,0 +1,13 @@
+.header {
+  background-color: #f1f5f9;
+  height: 20vh;
+  padding: 20px;
+  padding-left: 50px;
+}
+.header-logo {
+  height: 90%;
+  width: 200px;
+}
+.link {
+  text-decoration: none;
+}
